@@ -1,0 +1,21 @@
+File,Expected Category,Passed,Composite Score,Blur Score,Brightness,Glare Fraction,ROI Fraction,Ridge Score,Guidance
+1.jpeg,blurry,False,72.0,1.87,94.7,0.0,0.602,1259.0,Too blurry -- hold your hand steady and re-focus.
+2.jpeg,blurry,False,74.0,3.38,104.66,0.0,0.5353,1732.1,Too blurry -- hold your hand steady and re-focus.
+3.jpeg,blurry,False,57.2,4.01,87.02,0.1438,0.3684,1249.61,Too blurry -- hold your hand steady and re-focus.
+4.jpeg,blurry,False,74.0,1.58,143.48,0.0,0.3736,1345.64,Too blurry -- hold your hand steady and re-focus.
+5.jpeg,blurry,False,59.8,1.87,118.57,0.0915,0.4865,1345.27,Too blurry -- hold your hand steady and re-focus.
+1.png,dark,False,53.8,336.15,18.37,0.0193,0.0193,322.24,Too dark -- move to a brighter spot or turn on flash.
+2.png,dark,False,70.0,15.3,24.68,0.0007,0.5357,211.93,Too dark -- move to a brighter spot or turn on flash.
+3.png,dark,False,44.8,8.05,13.99,0.1395,0.2472,104.27,Too dark -- move to a brighter spot or turn on flash.
+4.png,dark,False,49.8,5.05,19.45,0.0413,0.3878,79.4,Too dark -- move to a brighter spot or turn on flash.
+5.png,dark,False,47.8,8.9,9.88,0.0978,0.3015,47.41,Too dark -- move to a brighter spot or turn on flash.
+Glareimage-1.jpeg,glare,False,59.3,11.66,72.41,0.1211,0.4081,1244.92,Glare detected -- tilt finger slightly to eliminate reflections.
+Glareimage-2.jpeg,glare,False,62.7,17.59,76.4,0.0351,0.4644,1220.4,Glare detected -- tilt finger slightly to eliminate reflections.
+Glareimage-3.jpeg,glare,True,85.9,29.36,98.03,0.0003,0.6407,1195.39,Good capture -- ready for processing.
+Glareimage-4.jpeg,glare,False,61.3,14.13,79.17,0.0319,0.4768,1167.72,Glare detected -- tilt finger slightly to eliminate reflections.
+Glareimage-5.jpeg,glare,False,59.2,11.65,71.64,0.1191,0.3543,875.19,Glare detected -- tilt finger slightly to eliminate reflections.
+Goodimage-1.jpeg,good,True,70.7,13.98,85.0,0.0084,0.5565,1054.39,Good capture -- ready for processing.
+Goodimage-2.jpeg,good,True,97.8,61.21,108.96,0.0,0.7785,2635.92,Good capture -- ready for processing.
+Goodimage-3.jpeg,good,True,99.1,64.47,120.37,0.0,0.756,3083.31,Good capture -- ready for processing.
+Goodimage-4.jpeg,good,True,98.7,58.13,117.04,0.0,0.7554,3088.74,Good capture -- ready for processing.
+Goodimage-5.jpeg,good,True,88.2,56.6,110.14,0.013,0.7812,2641.19,Good capture -- ready for processing.
